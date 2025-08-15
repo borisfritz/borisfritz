@@ -25,19 +25,7 @@ I was born in Nebraska and raised in Colorado. From 2016 to 2025, I lived in the
   - All things gaming (tabletop games, trading card games, PC gaming)
   - Avid sports fan! (Denver Broncos, San Francisco Giants, Vegas Golden Knights)
 
-## 🛠️ Previous Experience
-
-Before pursuing tech, I worked for a public works park department, where I became the go-to person for troubleshooting and maintaining systems around the city for the parks department. My experience included:
-
-- Troubleshooting and solving unexpected issues quickly and efficiently  
-- Maintaining and improving public parks and infrastructure  
-- Collaborating with teams to coordinate projects and ensure smooth operations  
-
-These experiences have given me a strong foundation in critical thinking, problem-solving, and teamwork—all skills I’m excited to bring into the tech world!
-
-## 📬 Let’s Connect!
-
-I’m always open to collaborations and making connections with fellow tech enthusiasts. Don’t hesitate to reach out—whether you have a project idea, advice, or just want to chat about tech or photography!
+I’m always open to making friends with fellow tech enthusiasts. Don’t hesitate to reach out—whether you have a project idea, advice, or just want to chat about tech or photography!
 
 *LinkedIn and other social links coming soon.*
 
