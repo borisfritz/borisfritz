@@ -26,7 +26,9 @@ I was born in Nebraska and raised in Colorado. From 2016 to 2025, I lived in the
 
 I’m always open to making friends with fellow tech enthusiasts. Don’t hesitate to reach out—whether you have a project idea, advice, or just want to chat about tech or photography!
 
-<p align="left">
+## Links and Socials:
+
+<p align="center">
   <img src="https://api.boot.dev/v1/users/public/1fafa5c0-cc24-4978-bb45-6a85d30613db/thumbnail" >
 </p>
 
